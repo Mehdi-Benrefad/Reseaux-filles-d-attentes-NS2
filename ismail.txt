@@ -1,0 +1,9 @@
+IMRANE:18:Rabat
+KHALID:20:kenitra
+BADR:21:casablanca
+IMRANE:18:Rabat
+KHALID:20:kenitra
+BADR:21:casablanca
+IMRANE:18:Rabat
+KHALID:20:kenitra
+BADR:21:casablanca

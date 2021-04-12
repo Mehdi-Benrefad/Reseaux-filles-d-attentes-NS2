@@ -1,0 +1,9 @@
+ismail:18:Rabat
+mehdi:20:kenitra
+yahya:21:casablanca
+mouad:89:NewYork
+lilya:17:Copenhagen
+Messi:33:Rosario
+ROnaldo:37:lisbone
+Enriqué:45:Espagne
+Alaoui:60:Maroc

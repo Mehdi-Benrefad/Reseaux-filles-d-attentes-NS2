@@ -1,0 +1,5 @@
+1:Casablanca :Anfa :44
+2:Settat:Pam :21 
+3:Rabat:Agdal :11
+4:Tanger:Essaada :34
+

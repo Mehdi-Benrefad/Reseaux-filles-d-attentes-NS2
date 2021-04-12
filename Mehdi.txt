@@ -1,0 +1,5 @@
+test.tcl************occupe***********127octets
+test1.tr************occupe***********30076995octets
+test2.nam************occupe***********72261288octets
+x.tcl************occupe***********1685octets
+yy.sh************occupe***********127octets

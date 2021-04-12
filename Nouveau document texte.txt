@@ -1,0 +1,8 @@
+//terminal1
+gcc server.c -o server
+//terminal2
+gcc client.c -o client
+//terminal1
+./server
+//terminal2
+./client pid
